@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Just1nTim3
-- 👀 I’m interested in computer sciense and java programming 
+- 👀 I’m interested in computer science and java programming 
 - 🌱 I’m currently learning java, MSSQL
 
 <!---
